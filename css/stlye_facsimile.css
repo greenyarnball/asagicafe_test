@@ -1,0 +1,25 @@
+li {
+    list-style: none;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between
+}
+header ul{
+    display: flex;
+    padding: 10px 0;
+}
+header ul{
+    display: flex;
+    padding:  10px 0;
+}
+header img{
+    border : 0.1em solid  #00A5BF;
+}
+.headerimg{
+}
+.headerlist{
+    text-align: right;
+}
